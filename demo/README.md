@@ -9,10 +9,10 @@ four shapes a CG specification can take.
 
 | Type | Maturity | | |
 | --- | --- | --- | --- |
-| Living specification | Draft | <https://w3c.github.io/cg-assets/demo/scheduling-apis/living.html> | the full set |
-| Living specification | Transferred | <https://w3c.github.io/cg-assets/demo/scheduling-apis/transferred.html> | pointer only |
-| Living specification | Unmaintained | <https://w3c.github.io/cg-assets/demo/scheduling-apis/unmaintained.html> | pointer only |
-| Snapshot | Draft | <https://w3c.github.io/cg-assets/demo/scheduling-apis/snapshot.html> | pointer only |
+| Living specification | Draft | <https://w3c.github.io/cg-spec-assets/demo/scheduling-apis/living.html> | the full set |
+| Living specification | Transferred | <https://w3c.github.io/cg-spec-assets/demo/scheduling-apis/transferred.html> | pointer only |
+| Living specification | Unmaintained | <https://w3c.github.io/cg-spec-assets/demo/scheduling-apis/unmaintained.html> | pointer only |
+| Snapshot | Draft | <https://w3c.github.io/cg-spec-assets/demo/scheduling-apis/snapshot.html> | pointer only |
 
 ## What to look for
 

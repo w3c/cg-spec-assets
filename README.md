@@ -1,4 +1,4 @@
-# cg-assets
+# cg-spec-assets
 
 Style sheets and scripts for W3C **Community Group specifications**.
 
