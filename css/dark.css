@@ -31,20 +31,20 @@ img { background: white; }
 	--tocnav-active-bg: var(--tocnav-normal-bg);
 
 	--tocsidebar-text: var(--text);
-	--tocsidebar-bg: #002a56;        /* CG: blue ToC sidebar (W3C TR: #080808) */
+	--tocsidebar-bg: #4a2c1e;        /* CG: terracotta ToC sidebar (W3C TR: #080808) */
 	--tocsidebar-shadow: rgba(255,255,255,.1);
-	--tocsidebar-heading-text: #cbe0fb;
+	--tocsidebar-heading-text: #f4f0e7;
 	--tocsidebar-link-text: var(--text);
 	--tocsidebar-link-underline: var(--text);
-	--tocsidebar-link-visited-text: #cbe0fb;
-	--tocsidebar-link-visited-underline: #cbe0fb;
+	--tocsidebar-link-visited-text: #e2977e;
+	--tocsidebar-link-visited-underline: #e2977e;
 
 	--toclink-text: var(--text);
 	--toclink-underline: #6af;
 	--toclink-visited-text: var(--toclink-text);
 	--toclink-visited-underline: #054572;
 
-	--heading-text: #8af;
+	--heading-text: #ef9878;
 
 	--hr-text: var(--text);
 
@@ -55,7 +55,7 @@ img { background: white; }
 	--ins-text: #4a4;
 	--ins-bg: transparent;
 
-	--a-normal-text: #6af;
+	--a-normal-text: #6fc3d9;
 	--a-normal-underline: #555;
 	--a-visited-text: var(--a-normal-text);
 	--a-visited-underline: var(--a-normal-underline);
@@ -127,13 +127,13 @@ img { background: white; }
 	--box-table-bg: black;
 	--box-table-text: var(--text);
 
-	/* Head blue box */
+	/* Head box */
 	--box-bg--head: var(--tocsidebar-bg);
-	--box-border--head: #023e53;
-	--box-link-text--head: var(--text);
-	--box-link-underline--head: var(--text);
-	--box-table-bg--head: #002a56;
-	--box-table-th-bg--head: #111;
+	--box-border--head: #ca400d;
+	--box-link-text--head: #f4f0e7;
+	--box-link-underline--head: #f4f0e7;
+	--box-table-bg--head: #3a2419;
+	--box-table-th-bg--head: #5c3726;
 	--box-table-border--head: var(--text);
 	--box-table-text--head: var(--text);
 
@@ -141,12 +141,12 @@ img { background: white; }
 	--box-bg--warning: #771009;
 
 	/* link--button */
-	--link--button--bg: #005a9c;
+	--link--button--bg: #9d3718;
 	--link--button--text: white;
-	--link--button--border: #005a9c;
+	--link--button--border: #e2977e;
 	--link--button--bg--hover: black;
 	--link--button--text--hover: white;
-	--link--button--border--hover: black;
+	--link--button--border--hover: #e2977e;
 }
 
 /******************************************************************************

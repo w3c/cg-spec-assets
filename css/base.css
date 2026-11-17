@@ -98,13 +98,13 @@
 	--tocnav-active-bg: var(--tocnav-normal-bg);
 
 	--tocsidebar-text: var(--text);
-	--tocsidebar-bg: #cbe0fb;
+	--tocsidebar-bg: #f4f0e7;
 	--tocsidebar-shadow: rgba(0,0,0,.1);
-	--tocsidebar-heading-text: var(--text);
-	--tocsidebar-link-text: #005a9c;
-	--tocsidebar-link-underline: #005a9c;
-	--tocsidebar-link-visited-text: #002a56;
-	--tocsidebar-link-visited-underline: #002a56;
+	--tocsidebar-heading-text: #102b43;
+	--tocsidebar-link-text: #9d3718;
+	--tocsidebar-link-underline: #9d3718;
+	--tocsidebar-link-visited-text: #5f493b;
+	--tocsidebar-link-visited-underline: #5f493b;
 	--tocsidebar-link-hover-bg: var(--bg);
 
 	--toclink-text: var(--text);
@@ -112,7 +112,7 @@
 	--toclink-visited-text: var(--toclink-text);
 	--toclink-visited-underline: #054572;
 
-	--heading-text: #005a9c;
+	--heading-text: #9d3718;
 
 	--hr-text: var(--text);
 
@@ -123,7 +123,7 @@
 	--ins-text: #006100;
 	--ins-bg: transparent;
 
-	--a-normal-text: #034575;
+	--a-normal-text: #066584;
 	--a-normal-underline: #707070;
 	--a-visited-text: var(--a-normal-text);
 	--a-visited-underline: #bbb;
@@ -194,14 +194,14 @@
 	--box-table-border: var(--text);
 	--box-table-text: var(--text);
 
-	/* Head blue box */
+	/* Head box */
 	--box-bg--head: var(--tocsidebar-bg);
-	--box-border--head: #023e53;
+	--box-border--head: #ca400d;
 	--box-text--head: var(--text);
-	--box-link-text--head: #005a9c;
-	--box-link-underline--head: #005a9c;
-	--box-table-bg--head: #f8f8fb;
-	--box-table-th-bg--head: #cac9c9;
+	--box-link-text--head: #9d3718;
+	--box-link-underline--head: #9d3718;
+	--box-table-bg--head: #fbf9f4;
+	--box-table-th-bg--head: #ecede2;
 	--box-table-border--head: #545454;
 	--box-table-text--head: inherit;
 
@@ -213,15 +213,15 @@
 
 	/* link--button */
 	--link--button--bg: var(--bg);
-	--link--button--text: #005a9c;
-	--link--button--border: #005a9c;
+	--link--button--text: #9d3718;
+	--link--button--border: #ca400d;
 	--link--button--bg--hover: var(--bg);
-	--link--button--text--hover: #002a56;
-	--link--button--border--hover: #002a56;
+	--link--button--text--hover: #102b43;
+	--link--button--border--hover: #9d3718;
 
 	/* Progress indicator */
 	--progress-lines: var(--text);
-	--progress-complete: #046704;
+	--progress-complete: #485e31;
 
 	/* Usage guidance icons */
 	--icon--head: var(--text);
