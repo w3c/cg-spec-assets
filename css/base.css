@@ -185,6 +185,10 @@
 
 	--editedrec-bg: darkorange;
 
+	/* Beta notice and incubation warning */
+	--notice-bg: red;
+	--notice-text: white;
+
 	/* Default box colors */
 	--box-bg: white;
 	--box-radius: 0.5rem;
