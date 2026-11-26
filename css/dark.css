@@ -137,6 +137,10 @@ img { background: white; }
 	--box-table-border--head: var(--text);
 	--box-table-text--head: var(--text);
 
+	/* Beta notice and incubation warning */
+	--notice-bg: red;
+	--notice-text: white;
+
 	/* Warning (red) */
 	--box-bg--warning: #771009;
 

@@ -540,8 +540,8 @@ dl.grid {
  * Temporary notice
  * ------------------------------------------------------------------------ */
 #beta-feedback-notice {
-  background-color: var(--warning-bg);
-  color: var(--warning-text);
+  background-color: var(--notice-bg);
+  color: var(--notice-text);
   border-radius: var(--box-radius);
   font-size: 90%;
   margin: 0 0 1rem;
@@ -554,14 +554,14 @@ dl.grid {
 }
 
 /* Incubation warning, added by cg-fixup.js on top of base.css's
-   .outdated-warning: orange instead of maroon. */
+   .outdated-warning: red instead of maroon. */
 .cg-incubation-warning {
-  background: var(--warning-bg);
+  background: var(--notice-bg);
   box-shadow: 0 0 1em;
 }
 .cg-incubation-warning,
 .cg-incubation-warning button {
-  color: var(--warning-text);
+  color: var(--notice-text);
 }
 /* Add padding so systems showing scrollbars only while scrolling will not
    obscure the button */
